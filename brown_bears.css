@@ -1,0 +1,67 @@
+body{
+	background-color: #c7c7c7;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	
+	/* Tasks 6 to 8 go here	*/			
+}
+
+#page_container{
+	width: 1200px;
+	background-color: #C9C9C9;
+	margin:0 auto;
+	padding:0 20px;
+	
+}
+
+/*  Tasks 3 to 5 goes here  */
+
+#main_heading{
+	text-align: center;
+	border-radius: 30px;
+	font-size: 30px;
+	color: FFFFFF;
+	/* Task 11 to 15 goes here */
+}
+
+
+#about_bears_text{
+	background-color: #ffffff;
+	border-radius: 30px;
+}
+
+#European_bear_image{
+	border-radius: 30px;
+}
+
+
+#European_bear_image img{
+	//<h2 class="subheading">Species</h2>
+	border-radius: 30px;
+	/* Task 10 goes here */
+}
+
+#features_text{
+	background-color: #ffffff;
+	border-radius: 30px;
+}
+ 
+#Ursian_bear_image{
+	
+}
+
+#Ursian_bear_image img{
+	border-radius: 30px;
+	/* and Task 10 goes here */
+}
+
+#habitat_text{
+	background-color: #ffffff;
+	border-radius: 30px;
+}
+
+.subheading{
+	/* Task 17 goes here */
+}
+
+	/* Task 18 goes into the styles where it is needed  */
