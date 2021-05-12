@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: binaryben2.github.io
+Token: 8d3f85e40a402a8fd532652b712e6c3b3a54c80703a75293425391acfc2635d2
